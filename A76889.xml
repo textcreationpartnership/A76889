@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloody nevvs from Chattam, or, A true and impartial account of a most barbarous murther, committed upon the body of a widdow, and her son. On twelf-day last past, by her pretended sweet-heart, in a copps, about half a mile from Becon-Hill, within a mile of Chattam. With the manner how this murther (through the providence of God) was discovered by a dog, that was with a boy gathering of sticks. A Relation of his apprehension, &amp; what he confessed to the justice of peace and some ministers, in the goal at Canterbury, where he is now in durance. Any man may be satisfied of the truth of this, at the Queens-head at Billisgate, at the Starr Inn upon Fish-street-hill, by the Kentish carriers, and other gentlemen lodging there.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76889</idno>
+            <idno type="STC">Wing B3262A</idno>
+            <idno type="STC">ESTC R215256</idno>
+            <idno type="EEBO-CITATION">43663190</idno>
+            <idno type="OCLC">ocm 43663190</idno>
+            <idno type="VID">171920</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76889)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171920)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2600:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloody nevvs from Chattam, or, A true and impartial account of a most barbarous murther, committed upon the body of a widdow, and her son. On twelf-day last past, by her pretended sweet-heart, in a copps, about half a mile from Becon-Hill, within a mile of Chattam. With the manner how this murther (through the providence of God) was discovered by a dog, that was with a boy gathering of sticks. A Relation of his apprehension, &amp; what he confessed to the justice of peace and some ministers, in the goal at Canterbury, where he is now in durance. Any man may be satisfied of the truth of this, at the Queens-head at Billisgate, at the Starr Inn upon Fish-street-hill, by the Kentish carriers, and other gentlemen lodging there.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Smith,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (2nd ed.)</note>
+                  <note>Imperfect: stained, and with print show-through, and loss of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171920:1" rendition="simple:additions"/>
+            <p>Bloody Nevvs from CHATTAM OR, A True and Impartial Account of a moſt Barbarous Murther, committed upon the Body of a Widdow, and her Son.</p>
+            <p>On <hi>Twelf-day</hi> laſt paſt, by her pretended Sweet-heart, in a Copps, about half a Mile from <hi>Becon-Hill,</hi> within a mile of <hi>Chattam.</hi>
+            </p>
+            <p>With the manner how this Murther (through the Providence of God) was Diſcovered by a Dog, that was with a Boy gathering of Sticks.</p>
+            <p>A Relation of his Apprehenſion, &amp; what he confeſſed to the Iuſtice of Peace and ſome Miniſters, in the Goal at <hi>Canterbury,</hi> where he is now in Durance.</p>
+            <p>Any man may be ſatisfied of the truth of this, at the Queens-head at <hi>Billinſgate,</hi> at the Starr Inn upon <hi>Fiſh-ſtreet-hill,</hi> by the Kentiſh Carriers, and other Gentlemen lodgeing there.</p>
+            <p>Printed for <hi>George Smith,</hi> 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:171920:2"/>
+            <pb facs="tcp:171920:2"/>
+            <head>BLOODY News from Chattam. &amp;c.</head>
+            <p>WHere Luſt takes up our deſires, and Revenge and Murther ſeizeth on our reſolutions, it is the true way to make us wretched in this life, and our ſouls miſerable in that to come; For if Chaſtity and Charity, (the two precious vertues and Ornaments of a Chriſtian) ſteer not our acti<g ref="char:EOLhyphen"/>ons on Earth; how ſhall, nay, how can he arrive
+<pb n="4" facs="tcp:171920:3"/>to the Harbour of Heaven; or if we abandon thoſe celeſtial vertues to follow and imbrace thoſe In<g ref="char:EOLhyphen"/>fernal vices, what do we but take our ſelves from felicity to miſery, and conſequently give our ſelves from God to Satan; but did we ſeriouſly (and truly) conſider that there is a Heaven ro Re<g ref="char:EOLhyphen"/>ward the Righteous; and a Hell to puniſh the ungodly? We would neither defile our hearts, and polute our ſouls with the thoughts, much leſs with the actions of ſuch beaſtly and inhumane crimes: but in this ſinful age of ours, there is two many laſcivious nd invious wretches, who make it their buſineſs to debauch themſelves and others. Among whom I here repreſent unto you a ſad, but true Hiſtory: <hi>(It's Bloody, and therefore mourn<g ref="char:EOLhyphen"/>ful)</hi> But if we dereſt the crime, we need not fear the puniſhment, for God is as gracious and pro<g ref="char:EOLhyphen"/>pitious to protect the innocent, as Juſt and Se<g ref="char:EOLhyphen"/>vere to chſtiſe the guilty.</p>
+            <p>In the Town of <hi>Chattam</hi> in the County of <hi>Kent</hi> lately Lived one — <hi>Ruttle,</hi> a laſcivious debaucht Young-man, being much adicted to com<g ref="char:EOLhyphen"/>pany-keeping, having thereby waſted almoſt all his portion; begins to take into conſideration how he might raiſe his fortune, and redeem his credit: Firſt, reforms his life; and having put on a civil garb, and Nature haveing endewed him with wit and comlineſs, he reſolves to ſeek af<g ref="char:EOLhyphen"/>ter a Yoke-fellow, and ſuch a one as might help him in this low eſtate which he had brought him<g ref="char:EOLhyphen"/>ſelf into. He informs his friends of his intenti<g ref="char:EOLhyphen"/>ons
+<pb n="5" facs="tcp:171920:3"/>to marty; Who inform'd him of a Perſon living near him, that had they were ſure enough to ſupply his preſent occaſions, (and would no doubt if he pleaſed to make his mind known unto her) be willing to accept of him. He having this incouragement reſolves to give this perſon a viſit, and that upon the next day, which he thought long e're it came; Now the Morning being ceme he puts his reſolution into practice; Being come into her preſence, and having fixt his eye upon her, ſaw ſhe was worthy to be beloved, and proceeds to make his mind known unto her, and ſeek her for his Wife, by his own ſolicitations, promiſes, attain'd her good will to marry her, but not without ſighs, rears, and Prayers, and Oaths; and by theſe falſe hypocritical tears and promiſes he gets the good will of this poor Widdow, be<g ref="char:EOLhyphen"/>ing the mother of two Children, and them both living, the one at Nurſe, the other at home with her about ſix or ſeven years old; and now having got her good will for which he came, he doth proceed to confirm the buſineſs, and that by tel<g ref="char:EOLhyphen"/>ling her what ſhe deſired to know, viz. What he had, and in what way he was to live, and whe<g ref="char:EOLhyphen"/>ther able to maintain ſhe and her two Children in caſe ſhe ſhould grant him her good will: He knowing that he could not if he ſooke the truth give her full ſatisfaction; therefore as he now ſaith, he reſolved to turn the beſt ſide outwards, and to tell her that he had a conſiderable living neer <hi>Canterbury</hi> which was morgaged, but if ſhe
+<pb n="6" facs="tcp:171920:4"/>had but ſo much money that would redeem it, then it would be worth ſo much a year, and that would be enough to maintain them, and if ſhe had not ſo much, he did not doubt but he could borrow ſo much, and if ſhe pleaſed but to go along with him he would ſhew her what it was, and the Writings, ſhe gave credit to him, thinking his heart had been like his words, gave conſent to go along with him, and not onely to ſee what he tould her he had there, but alſo to ſee his Friends, which dwelt there, he being born at <hi>Faulſton:</hi> now the time being come that ſhe was, according to promiſe to go along with him, in order thereunto ſhe took Cloaths with her, and alſo her ſon, having none at home to leave him with, and with what Money ſhe had, ſhe goes with him, not thinking that her journey had been ſo ſhort as it proved to be: for they were not gone a<g ref="char:EOLhyphen"/>bove a Mile, or their abouts, but he conſidered with himſelf, what he ſhould do in caſe he ſhould have her to the place he had told her, it being but a falſe and a meer forged ſtory, that he had made to delude her, and being now in abundance of care and trou<g ref="char:EOLhyphen"/>ble, the Devil that Old Serpent, that lies in wait to devour, quickly laid hold of this Opportunity, and having ſtrong hold, and good footing before, intends to bring this his ſervant into his own boſome, that had ſo long nd faithfully ſerved him: tells him that his beſt an donely way was, if he could, to get get her to be kind to him before hand: this bait of the De<g ref="char:EOLhyphen"/>vils was very pleaſing to him: he there puts it into practice, and finding a convenient paſſage out of the
+<pb n="7" facs="tcp:171920:4"/>Rode-way, into a Copps or Wood, he intreats her to go with him: ſhe readily follows him, like a poor innocent Lamb: where being come into a ſecret place, he deſires one favour of her, and that was, that ſince they were both agreed, ſhe would be pleaſ<g ref="char:EOLhyphen"/>ed to let him injoy ſome neerer familiarity then had formerly been between them, which ſhe reſuſed, be<g ref="char:EOLhyphen"/>ing always vertuouſly inclined: he finding he could not prevail in this, readily hearkened to what the Devil had before Inſinuated: Who adviſed him to Kill her and her child, and told him that the place was ſo fecret that he vvould never be found out, and thereupon he is vvilling to try this unhumane Tra<g ref="char:EOLhyphen"/>gedy: vvhich he acted thus: he finding no vvay to bring his buſineſs about to the obreyning his vvill of her, was the more incenſed againſt her, and there upon Dravvs his Knife, and Cutts her Threat, in ſeveral Ghaſtly formes; and then acts vvorſe then a Beaſt, takes his vvill of her vvhen ſhe could not help her ſelf, before ſhe vvas quite Dead, as he hath ſince reſated to the Goal-Keeper of <hi>Canterbury,</hi> Mr. <hi>Henry Landman:</hi> and having performed this unnatural act, he takes vvhat Money ſhe had, and ſeeks after the little Foy, vvho in this time of their Diſcourſe, vvas rambled a little vvay off, further into the Copps, not minding vvhat they did: He having found him, cuts his throat, and ſo flyes to <hi>Dover,</hi> intending to paſs over to <hi>France;</hi> about ten Days after comes to the Wood a poor boy to gather ſticks, and with him was a Dog, and while the boy was buſie a ſeeking fireing, the Dog was buſie in
+<pb n="8" facs="tcp:171920:5"/>running up and down; and as God had appointed this Dog was the firſt that revealed this horrid mur<g ref="char:EOLhyphen"/>ther; who when he had found would not wag from thence, but howled more and more till that the boy came to him, and no ſooner was he come but he was frighted almoſt out of his wits, and in this manner runs as faſt as his Leggs could carry him home to acquaint the town, which he quickly did, and many with ſpeed as the boy directed them, went to ſee, where they quickly found it to be too true; and that which troubled them inoſt, that it was one of their Neighbours that had lived civily and honeſtly with them many years; they quickly ſend Hue and cry af<g ref="char:EOLhyphen"/>ter him, and take him at <hi>Dover;</hi> and after examination by a Juſtice of Peace, was committed to <hi>Canterbury</hi> Goal; Where ſeveral Miniſters hath been with him, but as yet find him very little concerned, notwith<g ref="char:EOLhyphen"/>ſtanding his acknowledging of his own guilt, but we muſt leave him to the mercy of the Jury, and to the Juſtice of God.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
